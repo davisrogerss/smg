@@ -1,0 +1,14 @@
+{
+  "cash": 0.00,
+  "positions": {
+    "AAPL": 36,
+    "COST": 13,
+    "CRWD": 50,
+    "CVX": 56,
+    "JPM": 34,
+    "MSFT": 24,
+    "NVDA": 56,
+    "WMT": 111
+  },
+  "log": []
+}
